@@ -6,7 +6,7 @@
 
 ## 🛠 Skills
 
-HTML, CSS, JS
+
 
 ## 🔗 Links
 
