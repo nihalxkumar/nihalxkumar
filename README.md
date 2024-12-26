@@ -6,12 +6,12 @@ Namaste 🙏
 
 <!--🌱 Work is Life -->
 
----
 
-![](https://raw.githubusercontent.com/nihalxkumar/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/nihalxkumar/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+<details>
+   <summary>GitHub Stats</summary>
+   <p align="left"><img src="https://raw.githubusercontent.com/nihalxkumar/nihalxkumar/main/github-metrics.svg" /></p>
 
----
+</details>
 
 <details>
    <summary>📥</summary>
