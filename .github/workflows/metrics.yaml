@@ -27,7 +27,7 @@ jobs:
 
           user: nihalxkumar
           template: classic
-          base: activity, community, repositories, metadata
+          base: activity,metadata
           plugin_habits_charts_type: classic
           plugin_habits_days: 14
           plugin_habits_facts: yes
@@ -44,4 +44,4 @@ jobs:
           plugin_activity: yes
           plugin_activity_limit: 5
           plugin_activity_days: 0
-          plugin_activity_filter: issue, pr, release, fork, review, ref/create
+          plugin_activity_filter: issue, pr, release, fork, review, ref/create        
