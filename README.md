@@ -9,7 +9,7 @@ Namaste 🙏
 
 <details>
    <summary>GitHub Stats</summary>
-   <p align="left"><img src="https://raw.githubusercontent.com/nihalxkumar/nihalxkumar/main/github-metrics.svg" /></p>
+   <p align="left"><img src="https://raw.githubusercontent.com/nihalxkumar/nihalxkumar/pre-release/github-metrics.svg" /></p>
 
 </details>
 
