@@ -4,7 +4,7 @@ name: Metrics
 on:
   schedule: [{cron: "0 */3 * * *"}]
   workflow_dispatch:
-  push: {branches: ["pre-release"]}
+  push: {branches: ["main", "pre-release"]}
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
@@ -31,7 +31,7 @@ jobs:
           
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
           plugin_wakatime: yes
-          plugin_wakatime_sections: time, projects, languages, languages-graphs, editors-graphs
+          plugin_wakatime_sections: time, projects, languages, editors, os
           plugin_wakatime_repositories_visibility: public
           plugin_wakatime_days: 180
           plugin_wakatime_languages_ignored: markdown, plaintext, text, xml, yaml, JSON
@@ -47,5 +47,5 @@ jobs:
           plugin_discussions_categories_limit: 8
 
           plugin_leetcode: yes
-          plugin_leetcode_sections: solved, skills, recent
+          plugin_leetcode_sections: solved, skills
 

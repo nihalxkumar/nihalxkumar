@@ -1,17 +1,23 @@
 <!--🌱 Work is Life -->
 
-<img src="https://raw.githubusercontent.com/nihalxkumar/nihalxkumar/pre-release/github-metrics.svg" />
+I am a budding Software Engineer deepening my understanding of Data Systems, Cloud Architecture, and Low-Level Infrastructure through hands-on experimentation.
+
+Current Stack: Python, Rust, Data Enineering, Cloud, Linux 
+
+Beyond the Terminal, I spend time building communities.
+
+<img src="https://raw.githubusercontent.com/nihalxkumar/nihalxkumar/main/github-metrics.svg" />
 
 
 ---
 
 <details>
-   <summary>📥 </summary>
+   <summary>Contact </summary>
 
   Matrix: @nihalxkumar:matrix.org
   
-  Discord: @nihalxkumar
+  Discord: [@nihalxkumar](https://discord.com/users/480705995333435405)
 
-  Mail: collabwithnihal [at] gmail.com
+  Mail: collab with nihal [at] gmail.com
   
 </details>
