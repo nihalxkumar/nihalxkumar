@@ -21,3 +21,5 @@ Beyond the Terminal, I spend time building communities.
   Mail: collab with nihal [at] gmail.com
   
 </details>
+
+[![pgp](https://img.shields.io/badge/pgp-DDD66C8E32F86377%20-313131?style=flat&labelColor=545454&color=313131)](https://github.com/nihalxkumar.gpg)
